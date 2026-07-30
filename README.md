@@ -1,4 +1,4 @@
-Researcher at UFTM (Federal University of Triângulo Mineiro) and professor at SENAI. Main interests: Robotics, python, automation, web design. 
+Software Engineer at HU-Brasil. Main interests: Java, python, automation, RPA, API, Docker.  
 
 <!---
 WillianBaunier/WillianBaunier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
