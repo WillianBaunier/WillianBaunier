@@ -66,7 +66,7 @@ I’m an IT Analyst and Software Developer passionate about building scalable ba
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Task Manager API** | Enterprise REST API demonstrating clean architecture, authentication, validation and persistence. | Java 17, Jakarta EE, JPA |
+| **Web apps** | Enterprise web aplications demonstrating clean architecture, authentication and persistence. | Java 17, Jakarta EE, JPA |
 | **Healthcare Integration API** | APIs for healthcare systems integration and patient information exchange. | Java, REST, PostgreSQL |
 | **ETL Automation Pipelines** | Automated data pipelines and workflow orchestration for reporting and analytics. | Python, Airflow, Pandas |
 | **Power BI Automation** | Automated dashboard generation, reporting and data extraction workflows. | Python, Power BI |
