@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Willian Baunier 👋</h1>
-<h3 align="center">Software Engineer | Java & Python | Automação, ETL e Soluções Enterprise</h3>
+<h3 align="center">Software Engineer | Java & Python | Automation, ETL and Enterprise Solutions</h3>
 
 <p align="center">
   <a href="https://br.linkedin.com/in/willian-baunier">
@@ -12,8 +12,6 @@
 </p>
 
 ---
-
-## 💻 Java Backend Developer | Python Developer | Data Engineering & Automation
 
 I’m an IT Analyst and Software Developer passionate about building scalable backend applications, automating business processes, and creating data-driven solutions. I enjoy solving real-world problems using clean code, agile methodologies, and solutions that combine reliability with a great user experience.
 
