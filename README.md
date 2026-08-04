@@ -78,8 +78,6 @@ I’m an IT Analyst and Software Developer passionate about building scalable ba
 | [Erp_tech](#) | REST API in Java 17 covering the full sales cycle: customers, products, orders, and financials.
 | [Task Manager](#) | Modern, high-performance Task Manager API built with FastAPI, Python 3.11, PostgreSQL, and Redis.
 
-> Replace these entries with links to your repositories as you publish them.
-
 ---
 *"Building reliable software through clean architecture, automation, and continuous learning."*
 
