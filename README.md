@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Willian Baunier 👋</h1>
+<h1 align="center">Hi, I am Willian Baunier 👋</h1>
 <h3 align="center">Software Engineer | Java & Python | Automation, ETL and Enterprise Solutions</h3>
 
 <p align="center">
@@ -79,18 +79,6 @@ I’m an IT Analyst and Software Developer passionate about building scalable ba
 | [Task Manager](#) | Modern, high-performance Task Manager API built with FastAPI, Python 3.11, PostgreSQL, and Redis.
 
 > Replace these entries with links to your repositories as you publish them.
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-## 📫 Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/willian-baunier/
 
 ---
 *"Building reliable software through clean architecture, automation, and continuous learning."*
